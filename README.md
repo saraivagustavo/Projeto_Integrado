@@ -8,9 +8,9 @@ Otávio Lube dos Santos | Construção de Software para WEB
 Abrantes Araújo Silva Filho | Design e Desenvolvimento de Banco de Dados
 Susiléa Abreu dos Santos Lima  | Experiência e Interface com o Usuário
 
-Integrantes do Projeto |
-:-----------------------:|
-Guilherme Scarpelli Maia Leal |
+Integrantes do Projeto | GitHub
+:-----------------------:| :--------------:
+Guilherme Scarpelli Maia Leal | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo)
 Gustavo Saraiva Mariano |
 Juan Escossia Pagan |
 Lucas Girelli Bezerra |
