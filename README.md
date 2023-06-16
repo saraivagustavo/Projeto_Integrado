@@ -5,5 +5,5 @@ Professor   | Disciplina
 Otávio Lube dos Santos | Construção de Software para WEB
 Abrantes Araújo Silva Filho | Design e Desenvolvimento de Banco de Dados
 Susiléa Abreu dos Santos Lima  | Experiência e Interface com o Usuário
-#### Sobre o projeto:
+### Sobre o projeto:
 > O projeto consiste desde a criação dos protótipos de alta fidelidade até o desenvolvimento das páginas web e implementação do banco de dados.
