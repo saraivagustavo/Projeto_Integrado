@@ -8,7 +8,8 @@ Otávio Lube dos Santos | Construção de Software para WEB
 Abrantes Araújo Silva Filho | Design e Desenvolvimento de Banco de Dados
 Susiléa Abreu dos Santos Lima  | Experiência e Interface com o Usuário
 
-Integrantes do Projeto | GitHub | LinkedIn
+### Integrantes do Projeto
+Aluno | GitHub | LinkedIn
 :-----------------------:| :--------------: | :------------:
 Guilherme Scarpelli Maia Leal | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/guisml) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-scarpelli-06131716a/)
 Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
