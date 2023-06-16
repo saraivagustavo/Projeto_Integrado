@@ -10,11 +10,11 @@ Susiléa Abreu dos Santos Lima  | Experiência e Interface com o Usuário
 
 Integrantes do Projeto | GitHub | LinkedIn
 :-----------------------:| :--------------: | :------------:
-Guilherme Scarpelli Maia Leal | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/guisml) |
+Guilherme Scarpelli Maia Leal | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/guisml) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
 Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
-Juan Escossia Pagan | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) |
-Lucas Girelli Bezerra | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) |
-Rafael Silveira de Melo | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/porousbunion8) | 
+Juan Escossia Pagan | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
+Lucas Girelli Bezerra | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
+Rafael Silveira de Melo | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/porousbunion8) | [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-222386235/)
 
 ### Sobre o projeto:
 > O projeto consiste desde a criação dos protótipos de alta fidelidade até o desenvolvimento das páginas web e implementação do banco de dados.
