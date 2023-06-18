@@ -20,15 +20,19 @@ figure{
 
 #cabecalho {
     background-color: white;
-    height: 100px;
+    height: 80px;
     width: 100%;
     display: flex;
     align-items: center;
 }
 
+#fortes {
+    height: 40px;
+}
+
 .icones_esquerda {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     margin: 15px;
     justify-content: space-between;
     display: inline-flex;
@@ -44,8 +48,8 @@ header h1 {
 }
 
 .icones_direita {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     margin: 15px;
     justify-content: space-between;
     display: inline-flex;
@@ -60,6 +64,7 @@ header h1 {
     bottom: 0;
     position: fixed;
     width: 100%;
+    height: 10px;
 }
 
 .ir {
@@ -68,14 +73,14 @@ header h1 {
 }
 
 .icones_rodape {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     margin-right: 10px;
 }
 
 .ir p {
     margin-right: 40px;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 .icones_topo {
@@ -93,4 +98,84 @@ header h1 {
   
 .container_topo img:last-child {
     float: right;
+}
+
+.container_topo {
+    margin-bottom: 70px;
+}
+
+.noticias {
+    color: white;
+    margin-left: 50px;
+    flex: 1;
+    padding-right: 10px;
+}
+
+h1 {
+    margin-bottom: 30px;
+    margin-left: 60px;
+    color: white;
+}
+
+#h2-noticia {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+.imagem-noticia {
+    width: 500px;
+    height: 300px;
+}
+
+.link-noticia {
+    color: white;
+    margin-bottom: 30px;
+    white-space: nowrap;
+}
+
+.texto-inicial {
+    flex: 1;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    color: white;
+}
+
+.texto-inicial h2 {
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.texto-inicial p {
+    margin-bottom: 40px;
+    font-size: 26px;
+}
+
+.texto-inicial button {
+    margin-left: 200px;
+    background-color: #05F26C;
+    font-size: 20px;
+    height: 50px;
+    width: 180px;
+    border-radius: 33px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.corpo {
+    display: flex;
+    align-items: flex-start;
+}
+
+.linha-vertical {
+    border-left: 1px solid white;
+    height: 370px;
+    margin: 0 10px;
 }
